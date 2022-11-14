@@ -32,7 +32,7 @@ form {
 }
 
 a {
-  all: unset;
+  /*all: unset;*/
   text-decoration: none;
   color: #93cb3c;
   text-transform: capitalize;
